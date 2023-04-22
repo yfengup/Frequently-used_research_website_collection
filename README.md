@@ -2,6 +2,8 @@
 > This project aims to collect and arrange the websites I frequently use in my research.
 > 这个项目旨在收集和整理我在研究中经常使用的网站。
 
+**Disclaimer: This page only provides website link display service, and does not guarantee or be responsible for any of the following websites. 免责声明：此页面仅提供网站链接显示服务，不为以下任何网站进行担保及负责。**
+
 ## Knowledge 知识
 
 > Online websites that can help you acquaire research knowledge.
