@@ -1,4 +1,4 @@
-# Frequently-used_research_website_ollection 常用科研网站
+# Frequently-used_research_website_collection 常用科研网站
 > This project aims to collect and arrange the websites I frequently use in my research.
 > 这个项目旨在收集和整理我在研究中经常使用的网站。
 
